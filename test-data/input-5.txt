@@ -1,0 +1,4 @@
+#Create ship with first torpedo store stocked, that never fail, two shots 
+GT4500,2,0,0,0
+TORPEDO,SINGLE #should have fired from the primary store
+TORPEDO,SINGLE 
