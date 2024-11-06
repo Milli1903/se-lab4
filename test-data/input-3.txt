@@ -1,0 +1,3 @@
+#Create ship with both torpedo storex stocked, that never fail
+GT4500,1,0,1,0
+TORPEDO,ALL #should have fired from both stores
